@@ -1,3 +1,3 @@
 Fail panda fails...
 
-! [panda!](http://github.com/tekkub/testing/tree/master/failure_panda.jpg?raw=true)
+![panda!](http://github.com/tekkub/testing/tree/master/failure_panda.jpg?raw=true)
